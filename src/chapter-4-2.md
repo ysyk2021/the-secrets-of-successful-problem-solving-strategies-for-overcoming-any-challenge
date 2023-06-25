@@ -1,5 +1,4 @@
-Chapter 3: Developing Effective Problem-Solving Habits: Techniques for Setting Clear and Measurable Goals for Problem-Solving
-=============================================================================================================================
+# Techniques for Setting Clear and Measurable Goals for Problem-Solving
 
 Setting clear and measurable goals is essential to effective problem-solving. In this chapter, we'll explore techniques for developing effective problem-solving habits by setting clear and measurable goals.
 
