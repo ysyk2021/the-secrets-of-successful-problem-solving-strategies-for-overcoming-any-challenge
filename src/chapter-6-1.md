@@ -1,4 +1,4 @@
-Chapter: The Role of Creativity in Successful Problem-Solving
+The Role of Creativity in Successful Problem-Solving
 =============================================================
 
 Creativity plays a vital role in successful problem-solving. It enables us to think beyond conventional boundaries, generate innovative ideas, and find unique solutions to complex challenges. In this chapter, we will explore the significance of creativity in problem-solving and discuss strategies for nurturing and harnessing creative thinking.

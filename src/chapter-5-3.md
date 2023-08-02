@@ -1,4 +1,4 @@
-Chapter: Strategies for Using Logic and Critical Thinking to Solve Complex Problems
+Strategies for Using Logic and Critical Thinking to Solve Complex Problems
 ===================================================================================
 
 In this chapter, we will explore strategies for using logic and critical thinking to solve complex problems. By honing your analytical skills and employing logical reasoning, you can effectively navigate intricate challenges and arrive at innovative and well-reasoned solutions.
