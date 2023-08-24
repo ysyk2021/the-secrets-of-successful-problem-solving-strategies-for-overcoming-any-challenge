@@ -1,5 +1,3 @@
-Chapter 4: Analyzing Problems Effectively
-=========================================
 
 Analyzing problems effectively is essential to successful problem-solving. In this chapter, we'll explore the importance of analyzing problems effectively and techniques for doing so.
 

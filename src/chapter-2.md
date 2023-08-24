@@ -1,5 +1,3 @@
-Chapter 1: Understanding Problem-Solving
-========================================
 
 Problem-solving is a fundamental skill that can impact personal and professional growth. In this chapter, we'll explore the fundamentals of problem-solving, techniques for cultivating a mindset towards successful problem-solving, and tips for identifying personal obstacles to effective problem-solving and overcoming them.
 

@@ -1,5 +1,3 @@
-Chapter 6: Navigating Challenges in Problem-Solving
-===================================================
 
 In this chapter, we'll explore the challenges that can arise when seeking to solve problems effectively and techniques and strategies for managing setbacks and overcoming resistance.
 

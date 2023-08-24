@@ -1,5 +1,3 @@
-Chapter 2: The Importance of Critical Thinking
-==============================================
 
 Critical thinking is a crucial skill for successful problem-solving. In this chapter, we'll explore the importance of critical thinking in problem-solving, techniques for understanding the principles of effective critical thinking, and strategies for using these techniques to develop a strong foundation for successful problem-solving.
 

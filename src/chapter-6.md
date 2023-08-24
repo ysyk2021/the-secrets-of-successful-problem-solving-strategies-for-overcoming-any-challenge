@@ -1,5 +1,3 @@
-Chapter 5: Generating Innovative Solutions
-==========================================
 
 In this chapter, we'll explore the role of creativity in successful problem-solving and techniques for generating new ideas and approaches to problem-solving. We'll also discuss strategies for using innovation to find solutions to challenging problems.
 

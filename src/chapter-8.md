@@ -1,5 +1,3 @@
-Chapter 7: Applying Successful Problem-Solving Beyond Personal Growth
-=====================================================================
 
 Successful problem-solving principles can be applied beyond personal growth to achieve professional and community objectives. In this chapter, we'll explore the importance of applying successful problem-solving principles beyond personal growth and techniques for doing so.
 

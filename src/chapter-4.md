@@ -1,5 +1,3 @@
-Chapter 3: Developing Effective Problem-Solving Habits
-======================================================
 
 Developing effective problem-solving habits is essential to personal and professional development. In this chapter, we'll explore the role of effective problem-solving habits in personal and professional development, techniques for setting clear and measurable goals for problem-solving, and strategies for creating a customized problem-solving routine that aligns with personal objectives.
 
